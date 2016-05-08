@@ -1,0 +1,8 @@
+printf("Baghi nbela3 Nkm");
+do
+{
+if tayahli
+printf("nkm madaserniche")
+else 
+printf("nkm bayna")
+} While
